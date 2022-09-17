@@ -1,10 +1,7 @@
 <h2> Hi there Welcome to My GitHub 💻 </h2>
 <br>
 <pre style="font-size: x-large;">
-        I am currently working on web programming
-        with C# and STM32 programming with C/C++.
-        I learn Data Structures and Software Design Patterns.
-        I'm solving LeetCode Problems for the algorithm.
+
 </pre>
 
 <a target="_blank" align="center">
