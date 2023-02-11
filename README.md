@@ -1,16 +1,5 @@
 <h2> Hi there Welcome to My GitHub 💻 </h2>
 <br>
-<pre style="font-size: x-large;">
-
-</pre>
-
-<a target="_blank" align="center">
-<img align="right | top" height="300" width="400" alt="GIF"
-            src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Emirhan-Dogan&show_icons=true&theme=radical)
-
 <h3 align="center"> To reach me </h3>
 <p align="center">
 emirhandoganresmi@gmail.com - My Email Address.
@@ -29,11 +18,19 @@ emirhandoganresmi@gmail.com - My Email Address.
 <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/EmirhanDgnResmi">
 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" 
-    href="https://www.youtube.com/channel/UC6QfD4SAJMLu_sdupMMJZSw/featured">
-<img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
-<a style="margin-left: 5px;" target="_blank" href="">
-<img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
 </div>
 </p>
+<br>
+<div align="center">
+<a target="_blank" align="center">
+<img align="center | top" height="300" width="400" alt="GIF"
+            src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+</div>
+
+<pre style="font-size: x-large;">
+
+</pre>
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Emirhan-Dogan&show_icons=true&theme=radical)
 
