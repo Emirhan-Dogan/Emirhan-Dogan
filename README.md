@@ -1,5 +1,4 @@
 <h2> Hi there Welcome to My GitHub 💻 </h2>
-<br>
 <h3 align="center"> To reach me </h3>
 <p align="center">
 emirhandoganresmi@gmail.com - My Email Address.
@@ -27,7 +26,7 @@ emirhandoganresmi@gmail.com - My Email Address.
             src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 </div>
-
+<br>
 <pre style="font-size: x-large;">
 
 </pre>
