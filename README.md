@@ -32,4 +32,5 @@ emirhandoganresmi@gmail.com - My Email Address.
 </pre>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Emirhan-Dogan&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan-Dogan&amp;layout=compact&theme=radical" />
 
